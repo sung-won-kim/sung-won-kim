@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I am majoring in Architectural & Civil engineering at Korea University and studying Artificial Intelligence.
 
 ## Interest
-- NLP
-- GNN
+- Graph Neural Network
 - RecSys
+- NLP
 
 ## Tools & Languages
 - Python  
