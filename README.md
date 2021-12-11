@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Sungwon Kim. 👋 
 
-I am majoring in Architectural & Civil engineering at Korea University and studying Artificial Intelligence.
+Hi, I’m an M.S. student in the Graduate School of Knowledge Service Engineering at KAIST ([Data Science & Artificial Intelligence Laboratory (DSAIL)](http://dsail.kaist.ac.kr/)), led by Prof. Chanyoung Park. I do research on Machine Learning with Graph Neural Networks.
 
 ## Interest
-- Graph Neural Network
-- RecSys
-- NLP
+- Graph Representation Learning
+- Graph Neural Networks for Chemistry
 
 ## Tools & Languages
 - Python  
