@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 Hi, I’m an M.S. student in the Graduate School of Knowledge Service Engineering at KAIST ([Data Science & Artificial Intelligence Laboratory (DSAIL)](http://dsail.kaist.ac.kr/)), led by Prof. Chanyoung Park. I do research on Machine Learning with Graph Neural Networks.
 
+$x+y=1$
+$x$는 $y$와의 합이 $1$이다.
+
 ## Interest
 - Graph Representation Learning
 - Graph Neural Networks for Chemistry
