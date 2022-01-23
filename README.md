@@ -19,7 +19,7 @@ Hi, I’m an M.S. student in the Graduate School of Knowledge Service Engineerin
 
 ## Interest
 - Graph Representation Learning
-- Graph Neural Networks for Chemistry
+- Meta Learning / Few-shot Learning
 
 ## Tools & Languages
 - Python  
