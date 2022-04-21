@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Sungwon Kim. 👋 
 
-Hi, I’m an M.S. student in the Graduate School of Data Science at KAIST ([Data Science & Artificial Intelligence Laboratory (DSAIL)](http://dsail.kaist.ac.kr/)), led by Prof. Chanyoung Park. I do research on Machine Learning with Graph Neural Networks.
+Hi, I’m an M.S. student in the **Graduate School of Data Science at KAIST** ([Data Science & Artificial Intelligence Laboratory (DSAIL)](http://dsail.kaist.ac.kr/)), led by Prof. Chanyoung Park. I do research on Machine Learning with Graph Neural Networks.
 
 ## Interest
 - Graph Representation Learning
