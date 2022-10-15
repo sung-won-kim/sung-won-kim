@@ -19,7 +19,8 @@ Hi, I’m an M.S. student in the **Graduate School of Data Science at KAIST** ([
 
 ## Interest
 - Graph Neural Networks  
-- Meta Learning / Few-shot Learning  
+- Few-shot Learning
+- Meta Learning  
 
 
 ## Tools & Languages
