@@ -21,8 +21,3 @@ Hi, I’m an M.S. student in the **Graduate School of Data Science at KAIST** ([
 - Graph Neural Networks  
 - Few-shot Learning
 - Meta Learning  
-
-
-## Tools & Languages
-- Python  
-- Pytorch  
