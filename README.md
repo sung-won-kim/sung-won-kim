@@ -20,6 +20,6 @@ Hi, I’m an M.S. student in the **Graduate School of Data Science at KAIST** ([
 ## Interest
 - Graph Neural Networks  
 - Data-Efficient Deep Learning
-- Anything related to the tasks that can be addressed using GNNs in real-world scenarios!
+- Anything related to the tasks that can be addressed in real-world scenarios!
 
 [**Homepage**🏠](https://sung-won-kim.github.io)
