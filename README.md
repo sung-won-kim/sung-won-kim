@@ -21,9 +21,10 @@ I am primarily focused on data mining and machine learning, with a particular in
 My research is driven by exploring data-efficient methods that not only leverage the powerful performance of deep learning but also maintain applicability to training and inference time when applied to real-world scenarios.
 
 ## Interest
-- Graph Neural Networks  
-- Data-Efficient Deep Learning
-- Meta Learning
+- Graph Neural Networks
+  - Learning-based 3D Simulation via GNN 
+  - Federated Learning
+  - Data-Efficient Deep Learning
 - Anything related to the tasks that can be addressed in real-world scenarios!
 
 [**Homepage**🏠](https://sung-won-kim.github.io)
