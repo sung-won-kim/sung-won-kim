@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### Hi, I'm Sungwon Kim. 👋 
 
@@ -19,6 +19,7 @@ Hi, I’m an Ph.D. student in the **Graduate School of Data Science at KAIST** (
 
 I am primarily focused on data mining and machine learning, with a particular interest in graph data analysis. 
 My research is driven by exploring data-efficient methods that not only leverage the powerful performance of deep learning but also maintain applicability to training and inference time when applied to real-world scenarios.
+-->
 
 ## Interest
 - Graph Neural Networks
