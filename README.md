@@ -22,7 +22,7 @@ My research is driven by exploring data-efficient methods that not only leverage
 -->
 
 ## Interest
-  - AI4Science (Engineering), Physics-AI (3D Simulation)
+  - AI4Science (Engineering), Physical-AI (3D Simulation)
   - Federated Learning (Data-driven AI)
   - Data-Efficient Deep Learning
 Anything related to the tasks that can be addressed in real-world scenarios!
